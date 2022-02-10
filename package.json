@@ -28,7 +28,7 @@
     "@types/webpack-env": "1.16.3",
     "acorn": "8.7.0",
     "excalibur": "0.25.3",
-    "jasmine": "3.99.0",
+    "jasmine": "4.0.2",
     "karma": "6.3.16",
     "karma-chrome-launcher": "3.1.0",
     "karma-jasmine": "4.0.1",
